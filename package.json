@@ -1,0 +1,11 @@
+{
+"name": "test",
+"description": "tset",
+"version": "0.0.0",
+"main": "t0.js"
+},
+""dependencies:{
+"discord.js": "11.1.0",
+"request":"2.81.0"
+}
+}
